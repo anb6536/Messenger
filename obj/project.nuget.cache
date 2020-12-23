@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5YpCWrtWpsUTcAiX61V7n3v1g5qE4lpJvlMA0LEdNLtpZDl4w0y/i25j8aiI1scyXJEiAGHxolRUYqoHvvsEfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aahis\\Documents\\College\\CSCI 251\\Messenger\\Messenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aahis\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aahis\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aahis\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\aahis\Documents\College\CSCI 251\Messenger" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Communication.cs" t="Include" />
+      <e p="Generator.cs" t="Include" />
+      <e p="gg7767@rit.edu.key" t="Include" />
+      <e p="KeyGenerator.cs" t="Include" />
+      <e p="Messenger.csproj" t="IncludeRecursive" />
+      <e p="Msg.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Messenger.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PrimeChecker.cs" t="Include" />
+      <e p="private.key" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="public.key" t="Include" />
+    </e>
+  </component>
+</project>
